@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eab0d5a4.css",
-    "main.js": "/static/js/main.977894ab.js",
+    "main.js": "/static/js/main.8c0dfe1c.js",
     "static/js/787.2a33653b.chunk.js": "/static/js/787.2a33653b.chunk.js",
     "static/media/car.jpg": "/static/media/car.8506164a2e3c97e81504.jpg",
     "static/media/Frame 1000003234.jpg": "/static/media/Frame 1000003234.1b90eb0a396748a91478.jpg",
@@ -17,6 +17,7 @@
     "static/media/digi.svg": "/static/media/digi.722b0e2b79ef07328348ce2b9c550b7f.svg",
     "static/media/not_found.jpg": "/static/media/not_found.8d28f466d7f59f253d16.jpg",
     "static/media/carVector3.png": "/static/media/carVector3.1492b3044d093dee7723.png",
+    "static/media/sample.xlsx": "/static/media/sample.2a2449bc24a7d28aefc3.xlsx",
     "static/media/success.png": "/static/media/success.a9495a69811fcac58dcf.png",
     "static/media/ewallet.png": "/static/media/ewallet.a03cda5e953c9f5bf4f4.png",
     "static/media/banner.jpg": "/static/media/banner.f68125635a8d576a1f68.jpg",
@@ -51,11 +52,11 @@
     "static/media/exit.svg": "/static/media/exit.dcdfa2bdc4e38f182ee9c67171b078b3.svg",
     "static/media/chevron-down.svg": "/static/media/chevron-down.a5e59c814b9830a0bda7f26000ca2388.svg",
     "main.eab0d5a4.css.map": "/static/css/main.eab0d5a4.css.map",
-    "main.977894ab.js.map": "/static/js/main.977894ab.js.map",
+    "main.8c0dfe1c.js.map": "/static/js/main.8c0dfe1c.js.map",
     "787.2a33653b.chunk.js.map": "/static/js/787.2a33653b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eab0d5a4.css",
-    "static/js/main.977894ab.js"
+    "static/js/main.8c0dfe1c.js"
   ]
 }
