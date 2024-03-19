@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0531dd9a.css",
-    "main.js": "/static/js/main.9a25c58e.js",
+    "main.css": "/static/css/main.88013bf2.css",
+    "main.js": "/static/js/main.a1e1dee3.js",
     "static/js/787.2a33653b.chunk.js": "/static/js/787.2a33653b.chunk.js",
     "static/media/car.jpg": "/static/media/car.8506164a2e3c97e81504.jpg",
     "static/media/Frame 1000003234.jpg": "/static/media/Frame 1000003234.1b90eb0a396748a91478.jpg",
@@ -22,7 +22,6 @@
     "static/media/ewallet.png": "/static/media/ewallet.a03cda5e953c9f5bf4f4.png",
     "static/media/banner.jpg": "/static/media/banner.f68125635a8d576a1f68.jpg",
     "static/media/lighting.png": "/static/media/lighting.d43a5d3284f1eb22f34c.png",
-    "static/media/check.png": "/static/media/check.6f298cca57a5a8b36055.png",
     "static/media/cash.png": "/static/media/cash.b236b60e743bc85d9208.png",
     "static/media/electronics.png": "/static/media/electronics.1f3714a0c722753162f1.png",
     "static/media/product.svg": "/static/media/product.ec296008f422b59bfe5c87c1fb53acc1.svg",
@@ -34,7 +33,6 @@
     "static/media/osis-white.svg": "/static/media/osis-white.bb9d8bb3ccf7cb29b0893cc9a04b0e65.svg",
     "static/media/order.svg": "/static/media/order.0549190fc9c9d3722618c1c801d6c770.svg",
     "static/media/vendors.svg": "/static/media/vendors.847fb37e9aa1f64fb86b754121adf7a2.svg",
-    "static/media/store.svg": "/static/media/store.ad9d305b12e7d55e3926646d1a28974c.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/message.svg": "/static/media/message.a1e3649497e1a5c5ed8d5614c64c8ace.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -51,12 +49,12 @@
     "index.html": "/index.html",
     "static/media/exit.svg": "/static/media/exit.dcdfa2bdc4e38f182ee9c67171b078b3.svg",
     "static/media/chevron-down.svg": "/static/media/chevron-down.a5e59c814b9830a0bda7f26000ca2388.svg",
-    "main.0531dd9a.css.map": "/static/css/main.0531dd9a.css.map",
-    "main.9a25c58e.js.map": "/static/js/main.9a25c58e.js.map",
+    "main.88013bf2.css.map": "/static/css/main.88013bf2.css.map",
+    "main.a1e1dee3.js.map": "/static/js/main.a1e1dee3.js.map",
     "787.2a33653b.chunk.js.map": "/static/js/787.2a33653b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0531dd9a.css",
-    "static/js/main.9a25c58e.js"
+    "static/css/main.88013bf2.css",
+    "static/js/main.a1e1dee3.js"
   ]
 }
