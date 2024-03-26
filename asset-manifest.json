@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.88013bf2.css",
-    "main.js": "/static/js/main.aef35d81.js",
-    "static/js/787.2a33653b.chunk.js": "/static/js/787.2a33653b.chunk.js",
+    "main.css": "/static/css/main.5804e7d2.css",
+    "main.js": "/static/js/main.f01950b6.js",
+    "static/js/787.fc3d1b10.chunk.js": "/static/js/787.fc3d1b10.chunk.js",
     "static/media/car.jpg": "/static/media/car.8506164a2e3c97e81504.jpg",
     "static/media/Frame 1000003234.jpg": "/static/media/Frame 1000003234.1b90eb0a396748a91478.jpg",
     "static/media/caleb-white-XGJBSkoqX_I-unsplash-removebg-preview 1.png": "/static/media/caleb-white-XGJBSkoqX_I-unsplash-removebg-preview 1.4a6a91ab7617028327c6.png",
@@ -24,7 +24,6 @@
     "static/media/lighting.png": "/static/media/lighting.d43a5d3284f1eb22f34c.png",
     "static/media/cash.png": "/static/media/cash.b236b60e743bc85d9208.png",
     "static/media/electronics.png": "/static/media/electronics.1f3714a0c722753162f1.png",
-    "static/media/product.svg": "/static/media/product.ec296008f422b59bfe5c87c1fb53acc1.svg",
     "static/media/accessories.png": "/static/media/accessories.2a7d933880ea06984e5a.png",
     "static/media/carVector.png": "/static/media/carVector.21727c35ccf03417ce20.png",
     "static/media/agents.svg": "/static/media/agents.50ddbfe7003328993919cb57185973d1.svg",
@@ -49,12 +48,12 @@
     "index.html": "/index.html",
     "static/media/exit.svg": "/static/media/exit.dcdfa2bdc4e38f182ee9c67171b078b3.svg",
     "static/media/chevron-down.svg": "/static/media/chevron-down.a5e59c814b9830a0bda7f26000ca2388.svg",
-    "main.88013bf2.css.map": "/static/css/main.88013bf2.css.map",
-    "main.aef35d81.js.map": "/static/js/main.aef35d81.js.map",
-    "787.2a33653b.chunk.js.map": "/static/js/787.2a33653b.chunk.js.map"
+    "main.5804e7d2.css.map": "/static/css/main.5804e7d2.css.map",
+    "main.f01950b6.js.map": "/static/js/main.f01950b6.js.map",
+    "787.fc3d1b10.chunk.js.map": "/static/js/787.fc3d1b10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88013bf2.css",
-    "static/js/main.aef35d81.js"
+    "static/css/main.5804e7d2.css",
+    "static/js/main.f01950b6.js"
   ]
 }
