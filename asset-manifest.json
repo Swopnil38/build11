@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.5804e7d2.css",
-    "main.js": "/static/js/main.f01950b6.js",
+    "main.css": "/static/css/main.63b6c607.css",
+    "main.js": "/static/js/main.6195936b.js",
     "static/js/787.fc3d1b10.chunk.js": "/static/js/787.fc3d1b10.chunk.js",
     "static/media/car.jpg": "/static/media/car.8506164a2e3c97e81504.jpg",
     "static/media/Frame 1000003234.jpg": "/static/media/Frame 1000003234.1b90eb0a396748a91478.jpg",
     "static/media/caleb-white-XGJBSkoqX_I-unsplash-removebg-preview 1.png": "/static/media/caleb-white-XGJBSkoqX_I-unsplash-removebg-preview 1.4a6a91ab7617028327c6.png",
     "static/media/sample.png": "/static/media/sample.3fdc75f8d7da45e12e29.png",
     "static/media/jpg": "/static/media/e78402a0d645c32e2f21069bb9543406.7f06b3d5e1e434f9aede.jpg",
-    "static/media/dub.jpg": "/static/media/dub.270799a131648c37e44a.jpg",
     "static/media/product.png": "/static/media/product.73c92e7c491ab4fc5332.png",
     "static/media/change-pw.jpg": "/static/media/change-pw.76278c6661f610da4965.jpg",
     "static/media/Suspensions 1.png": "/static/media/Suspensions 1.f3df1bd63bb55084644a.png",
@@ -48,12 +47,12 @@
     "index.html": "/index.html",
     "static/media/exit.svg": "/static/media/exit.dcdfa2bdc4e38f182ee9c67171b078b3.svg",
     "static/media/chevron-down.svg": "/static/media/chevron-down.a5e59c814b9830a0bda7f26000ca2388.svg",
-    "main.5804e7d2.css.map": "/static/css/main.5804e7d2.css.map",
-    "main.f01950b6.js.map": "/static/js/main.f01950b6.js.map",
+    "main.63b6c607.css.map": "/static/css/main.63b6c607.css.map",
+    "main.6195936b.js.map": "/static/js/main.6195936b.js.map",
     "787.fc3d1b10.chunk.js.map": "/static/js/787.fc3d1b10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5804e7d2.css",
-    "static/js/main.f01950b6.js"
+    "static/css/main.63b6c607.css",
+    "static/js/main.6195936b.js"
   ]
 }
